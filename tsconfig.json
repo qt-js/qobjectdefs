@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "lib": ["ES2015"],
+    "declaration": true
+  },
+  "files": [
+    "index.ts"
+  ]
+}

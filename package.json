@@ -1,0 +1,22 @@
+{
+  "name": "@qt.js/qobjectdefs",
+  "version": "4.7.0",
+  "description": "Module containing the GPL-3.0 licensed 'qobjectdefs.h' file used by the binding generator",
+  "main": "index.js",
+  "repository": "https://github.com/qt-js/qobjectdefs.git",
+  "author": "empyrical <empyrical@outlook.com>",
+  "license": "GPL-3.0-only WITH Qt-GPL-exception-1.0",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE.QTJS",
+    "LICENSE.GPL3-EXCEPT",
+    "README.md",
+    "qobjectdefs.h"
+  ],
+  "devDependencies": {
+    "@types/node": "^10.11.2",
+    "typescript": "^3.1.1"
+  },
+  "types": "./index.d.ts"
+}
